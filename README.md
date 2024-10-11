@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -132,4 +131,4 @@ la logistique.</li>
     <p>© Fahim Haque. All rights reserved.</p>
     </footer>
 </body>
-</html>
+
